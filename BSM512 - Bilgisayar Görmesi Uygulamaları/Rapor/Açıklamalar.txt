@@ -1,0 +1,4 @@
+Şekil 1'de görüldüğü üzere, sınıflar arası dağılım nispeten dengeli olsa da belirli sınıflarda (örn: scratches veya crazing) farklılıklar bulunmaktadır.
+Bu durum model eğitiminde dikkate alınacaktır.
+
+34.186.9.52
